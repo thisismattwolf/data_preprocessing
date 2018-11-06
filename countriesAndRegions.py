@@ -23,10 +23,6 @@ TO DO:
 ===================================
 
 
-See google sheet here for Devex reference: 
-    https://docs.google.com/spreadsheets/d/1idZ7Tr1d3g7Q7FUGEkdRa5MJ05rnnWpwbfGQ3Ctq0f0/edit#gid=0
-
-
 """
 devexContinents = ['Africa', 'Asia and Pacific', 'Europe', \
                    'Latin America and Caribbean', 'Middle East', \
